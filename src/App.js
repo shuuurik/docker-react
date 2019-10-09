@@ -19,7 +19,7 @@ function App() {
           Learn React
         </a>
 	<p>
-          Hello There! +++++!!!!!!+++++++
+          Hello There! +++++!!!!!!+++++++!!!!
  	</p>
       </header>
     </div>
